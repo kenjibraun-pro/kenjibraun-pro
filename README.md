@@ -13,6 +13,7 @@
 * Blockchain
 * Machine Learning
 * Data Science
+* Golang
 * Frontend and Backend Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kenjibraun-pro&layout=compact">
