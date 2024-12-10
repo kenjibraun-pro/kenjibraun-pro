@@ -2,9 +2,6 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-kenji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenji-braun)](https://www.linkedin.com/in/kenji-braun) [![Gmail Badge](https://img.shields.io/badge/-kenjibraun.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenjibraun.pro@gmail.com)](mailto:kenjibraun.pro@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenjibraun-pro" alt="kenjibraun-pro" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
